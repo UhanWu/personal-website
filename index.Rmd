@@ -1,0 +1,35 @@
+---
+title: "Yuhan Wu's Personal Website"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+## Introduction
+
+Hello, my name is Yuhan Wu. I immigrate from China to the United States in 2019, currently a student at Newton North High School. I spent the first three years in the US getting myself fluent in English as well as familiarized with the American culture. It was the start of my sophomore year in high school that I am fascinated by the power of data analytics and mathematical modeling.
+
+I am an amateur badminton player and a pianist ([Performance at Asian Night](https://www.youtube.com/watch?v=zAMLrC4QClM&t=1980s)). On to food, I am a crazy burritos lover since my first exposure to it during a math modeling competition. 
+
+This website will keep track of my several main projects throughout high school, as well as progress and knowledge development as I dive deeper into the fields of applied mathematics and data science.
+
+Hope you can find this website interesting and can learn a little more about me!
+
+Welcome again! ฅ՞•ﻌ•՞ฅ
+
+-Yuhan 
+
+
+
+
