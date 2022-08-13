@@ -10,19 +10,29 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Modeling"
-      manu: 
-       - text: "Linear Programming"
-         href: linear-programming.html
-       - text: "Graph Theory"
-         href: graph-theory.html
-       - text: "Interpolation and Fitting"
-       - text: "Analytic Hierarchy Process (AHP)"
-       - text: "Integer Programming"
-       - text: "Dynamic Programming"
-       - text: "Differential Equation Model"
-       - text: "Game Theory"
-       - text: "Queueing Theory"
-       - text: "Inventory Theory"
+      menu: 
+        - text: "Linear Programming"
+          href: linear-programming.html
+        - text: "Graph Theory"
+          href: graph-theory.html
+        - text: "Interpolation and Fitting"
+          href: interpolation-fitting.html
+        - text: "Analytic Hierarchy Process (AHP)"
+          href: analytic-hierarchy-process.html
+        - text: "Integer Programming"
+          href: integer-programming.html
+        - text: "Dynamic Programming"
+          href: dynamic-programming.html
+        - text: "Differential Equation Model"
+          href: differential-equation.html
+        - text: "Game Theory"
+          href: game-theory.html
+        - text: "Queueing Theory"
+          href: queueing-theory.html
+        - text: "Inventory Theory"
+          href: inventory-theory.html
     - text: "Projects"
-    
+      menu:
+         - text: "HIMCM 2021"
+           href: himcm_2021.html
 output: distill::distill_article
