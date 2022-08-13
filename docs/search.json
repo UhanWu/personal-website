@@ -6,157 +6,102 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:55+08:00"
+      "last_modified": "2022-08-13T23:47:27+08:00"
     },
     {
       "path": "analytic-hierarchy-process.html",
       "title": "Analytic Hierarchy Process",
       "description": "Exploration in Analytic Hierarchy Process (AHP).\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:56+08:00"
+      "last_modified": "2022-08-13T23:47:27+08:00"
     },
     {
       "path": "differential-equation.html",
       "title": "Differential Equation Modeling",
       "description": "Exploration in differential equation modeling.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:56+08:00"
+      "last_modified": "2022-08-13T23:47:27+08:00"
     },
     {
       "path": "dynamic-programming.html",
       "title": "Dynamic Programming",
       "description": "Exploration in dynamic programming.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:56+08:00"
+      "last_modified": "2022-08-13T23:47:28+08:00"
     },
     {
       "path": "game-theory.html",
       "title": "Game Theory",
       "description": "Exploration in Game Theory.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:57+08:00"
+      "last_modified": "2022-08-13T23:47:28+08:00"
     },
     {
       "path": "graph-theory.html",
       "title": "Graph Theory",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:57+08:00"
+      "last_modified": "2022-08-13T23:47:28+08:00"
     },
     {
       "path": "himcm_2021.html",
       "title": "HIMCM 2021",
       "description": "Experiences in 2022 High School Mathematical Contest in Modeling.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:57+08:00"
+      "last_modified": "2022-08-13T23:47:29+08:00"
     },
     {
       "path": "index.html",
       "title": "Yuhan Wu's Personal Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I immigrate from China to the United\nStates in 2019, currently a student at Newton North High School. I spent\nthe first three years in the US getting myself fluent in English as well\nas familiarized with the diverse American cultures. It was the start of\nmy sophomore year in high school that I am fascinated by the power of\ndata analytics and mathematical modeling.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\n-Yuhan\nModeling Exploration\nProjects Overview\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:58+08:00"
+      "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I immigrate from China to the United\nStates in 2019, currently a student at Newton North High School. I spent\nthe first three years in the US getting myself fluent in English as well\nas familiarized with the diverse American cultures. It was the start of\nmy sophomore year in high school that I am fascinated by the power of\ndata analytics and mathematical modeling.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\n-Yuhan\nModeling Exploration\nThis section record my explorations and the learning of different\nalgorithms, theories and methods of data analysis.\nThese topics includes:\nLinear Programming\nGraph Theory\nInterpolation and\nFitting\nAnalytic Hierarchy Process\n(AHP)\nInteger Programming\nDynamic Programming\nDifferential Equation\nModeling\nGame Theory\nQueueing Theory\nInventory Theory\nProjects Overview\n\n\n\n",
+      "last_modified": "2022-08-13T23:47:29+08:00"
     },
     {
       "path": "integer-programming.html",
       "title": "Integer Programming",
       "description": "Exploration in Integer Programming.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:58+08:00"
+      "last_modified": "2022-08-13T23:47:29+08:00"
     },
     {
       "path": "interpolation-fitting.html",
       "title": "Interpolation and Fitting",
       "description": "Exploration in interpolation and fitting methods.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:58+08:00"
+      "last_modified": "2022-08-13T23:47:30+08:00"
     },
     {
       "path": "inventory-theory.html",
       "title": "Inventory Theory",
       "description": "Exploration in Inventory Theory.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:59+08:00"
+      "last_modified": "2022-08-13T23:47:30+08:00"
     },
     {
       "path": "linear-programming.html",
       "title": "Linear Programming",
-      "description": "Exploration in Linear Programming (LP)\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
-      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:59+08:00"
+      "description": "Exploration in Linear Programming (LP).\n",
+      "author": [],
+      "contents": "\nConcepts\n\n\n\n",
+      "last_modified": "2022-08-13T23:47:30+08:00"
     },
     {
       "path": "queueing-theory.html",
       "title": "Queueing Theory",
       "description": "Exploration in Queueing Theory.\n",
-      "author": [
-        {
-          "name": "Yuhan Wu",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T15:49:59+08:00"
+      "last_modified": "2022-08-13T23:47:31+08:00"
     }
   ],
   "collections": []
