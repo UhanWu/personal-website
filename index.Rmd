@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Introduction
 
-Hello, my name is Yuhan Wu. I immigrate from China to the United States in 2019, currently a student at Newton North High School. I spent the first three years in the US getting myself fluent in English as well as familiarized with the diverse American cultures. It was the start of my sophomore year in high school that I am fascinated by the power of data analytics and mathematical modeling.
+Hello, my name is Yuhan Wu. I am currently a student at Newton North High School. When I was young, I have always wondered what are the real application of all the math and science knowledge that I've learned. I discovered the answer to this question after my first math modeling competition; I came to the realization and the fascination of the power of data analytics and mathematical modeling. It is the pleasure of creation and seeing its application that keeps motivate me and pushes me further in the journey of math and data.
 
 I am an amateur badminton player and a pianist ([Performance at Asian Night](https://www.youtube.com/watch?v=zAMLrC4QClM&t=1980s)). On to food, I am a crazy burritos lover since my first exposure to it during a math modeling competition. 
 
@@ -28,7 +28,7 @@ Hope you can find this website interesting and can learn a little more about me!
 
 Welcome again! ฅ՞•ﻌ•՞ฅ
 
-- Yuhan 
+_Yuhan_
 
 
 ## Modeling Exploration
