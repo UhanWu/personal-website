@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-13T10:10:42+08:00"
+      "last_modified": "2022-08-13T10:18:51+08:00"
     },
     {
       "path": "graph-theory.html",
@@ -14,7 +14,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T10:10:43+08:00"
+      "last_modified": "2022-08-13T10:18:51+08:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I immigrate from China to the United\nStates in 2019, currently a student at Newton North High School. I spent\nthe first three years in the US getting myself fluent in English as well\nas familiarized with the diverse American cultures. It was the start of\nmy sophomore year in high school that I am fascinated by the power of\ndata analytics and mathematical modeling.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\n-Yuhan\nModeling Exploration\nProjects Overview\n\n\n\n",
-      "last_modified": "2022-08-13T10:10:43+08:00"
+      "last_modified": "2022-08-13T10:18:52+08:00"
     },
     {
       "path": "linear-programming.html",
@@ -30,7 +30,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-13T10:10:43+08:00"
+      "last_modified": "2022-08-13T10:18:52+08:00"
     }
   ],
   "collections": []
