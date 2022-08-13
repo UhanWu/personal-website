@@ -9,4 +9,19 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Algorithm Exploration"
+      manu: 
+       - text: "Linear Programming"
+       - text: "Graph Theory"
+       - text: "Interpolation and Fitting"
+       - text: "Analytic Hierarchy Process (AHP)"
+       - text: "Integer Programming"
+       - text: "Dynamic Programming"
+       - text: "Differential Equation Model"
+       - text: "Game Theory"
+       - text: "Queueing Theory"
+       - text: "Inventory Theory"
+       
+    - text: "Projects"
+    
 output: distill::distill_article
