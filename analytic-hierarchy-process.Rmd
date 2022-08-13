@@ -2,8 +2,6 @@
 title: "Analytic Hierarchy Process"
 description: |
   Exploration in Analytic Hierarchy Process (AHP).
-author:
-  - name: Yuhan Wu
 output: distill::distill_article
 ---
 

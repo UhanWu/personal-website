@@ -2,8 +2,6 @@
 title: "Graph Theory"
 escription: |
   Exploration in Graph Theory.
-author:
-  - name: Yuhan Wu
 output: distill::distill_article
 ---
 

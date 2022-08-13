@@ -2,8 +2,6 @@
 title: "Integer Programming"
 description: |
   Exploration in Integer Programming.
-author:
-  - name: Yuhan Wu
 output: distill::distill_article
 ---
 

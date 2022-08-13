@@ -1,9 +1,7 @@
 ---
 title: "Linear Programming"
 description: |
-  Exploration in Linear Programming (LP)
-author:
-  - name: Yuhan Wu
+  Exploration in Linear Programming (LP).
 output: distill::distill_article
 ---
 

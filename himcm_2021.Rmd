@@ -2,8 +2,6 @@
 title: "HIMCM 2021"
 description: |
   Experiences in 2022 High School Mathematical Contest in Modeling.
-author:
-  - name: Yuhan Wu
 output: distill::distill_article
 ---
 
