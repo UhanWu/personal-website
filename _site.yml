@@ -23,7 +23,7 @@ navbar:
           href: integer-programming.html
         - text: "Dynamic Programming"
           href: dynamic-programming.html
-        - text: "Differential Equation Model"
+        - text: "Differential Equation Modeling"
           href: differential-equation.html
         - text: "Game Theory"
           href: game-theory.html
