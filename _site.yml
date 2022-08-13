@@ -9,10 +9,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Algorithm Exploration"
+    - text: "Modeling"
       manu: 
        - text: "Linear Programming"
+         href: linear-programming.html
        - text: "Graph Theory"
+         href: graph-theory.html
        - text: "Interpolation and Fitting"
        - text: "Analytic Hierarchy Process (AHP)"
        - text: "Integer Programming"
@@ -21,7 +23,6 @@ navbar:
        - text: "Game Theory"
        - text: "Queueing Theory"
        - text: "Inventory Theory"
-       
     - text: "Projects"
     
 output: distill::distill_article
