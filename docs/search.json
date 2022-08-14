@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:48+08:00"
+      "last_modified": "2022-08-14T22:53:34+08:00"
     },
     {
       "path": "analytic-hierarchy-process.html",
@@ -14,7 +14,7 @@
       "description": "Exploration in Analytic Hierarchy Process (AHP).\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:48+08:00"
+      "last_modified": "2022-08-14T22:53:34+08:00"
     },
     {
       "path": "differential-equation.html",
@@ -22,7 +22,7 @@
       "description": "Exploration in differential equation modeling.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:48+08:00"
+      "last_modified": "2022-08-14T22:53:34+08:00"
     },
     {
       "path": "dynamic-programming.html",
@@ -30,7 +30,7 @@
       "description": "Exploration in dynamic programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:49+08:00"
+      "last_modified": "2022-08-14T22:53:35+08:00"
     },
     {
       "path": "game-theory.html",
@@ -38,7 +38,7 @@
       "description": "Exploration in Game Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:49+08:00"
+      "last_modified": "2022-08-14T22:53:35+08:00"
     },
     {
       "path": "graph-theory.html",
@@ -46,7 +46,7 @@
       "description": "Exploration in Graph Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:49+08:00"
+      "last_modified": "2022-08-14T22:53:35+08:00"
     },
     {
       "path": "himcm_2021.html",
@@ -54,7 +54,7 @@
       "description": "Experiences in 2022 High School Mathematical Contest in Modeling.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:50+08:00"
+      "last_modified": "2022-08-14T22:53:36+08:00"
     },
     {
       "path": "index.html",
@@ -62,7 +62,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I am currently a student at Newton North\nHigh School. When I was young, I have always wondered what are the real\napplication of all the math and science knowledge that I’ve learned. I\ndiscovered the answer to this question after my first math modeling\ncompetition; I came to the realization and the fascination of the power\nof data analytics and mathematical modeling. It is the pleasure of\ncreation and seeing its application that keeps motivate me and pushes me\nfurther in the journey of math and data.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\nYuhan\nModeling Exploration\nThis section record my explorations and the learning of different\nalgorithms, theories and methods of data analysis.\nThese topics includes:\nLinear Programming\nGraph Theory\nInterpolation and\nFitting\nAnalytic Hierarchy Process\n(AHP)\nInteger Programming\nDynamic Programming\nDifferential Equation\nModeling\nGame Theory\nQueueing Theory\nInventory Theory\nProjects Overview\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:50+08:00"
+      "last_modified": "2022-08-14T22:53:36+08:00"
     },
     {
       "path": "integer-programming.html",
@@ -70,7 +70,7 @@
       "description": "Exploration in Integer Programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:50+08:00"
+      "last_modified": "2022-08-14T22:53:36+08:00"
     },
     {
       "path": "interpolation-fitting.html",
@@ -78,7 +78,7 @@
       "description": "Exploration in interpolation and fitting methods.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:51+08:00"
+      "last_modified": "2022-08-14T22:53:37+08:00"
     },
     {
       "path": "inventory-theory.html",
@@ -86,7 +86,7 @@
       "description": "Exploration in Inventory Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:51+08:00"
+      "last_modified": "2022-08-14T22:53:37+08:00"
     },
     {
       "path": "linear-programming.html",
@@ -94,7 +94,7 @@
       "description": "Exploration in Linear Programming (LP).\n",
       "author": [],
       "contents": "\nConcepts\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-14T22:50:09+08:00"
+      "last_modified": "2022-08-14T22:53:37+08:00"
     },
     {
       "path": "queueing-theory.html",
@@ -102,7 +102,7 @@
       "description": "Exploration in Queueing Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-14T00:16:52+08:00"
+      "last_modified": "2022-08-14T22:53:38+08:00"
     }
   ],
   "collections": []
