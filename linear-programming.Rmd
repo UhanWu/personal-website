@@ -12,6 +12,15 @@ knitr::opts_chunk$set(echo = FALSE)
 # Concepts
 
 
+![Linear Programming 01](images/linear-programming/Linear_Programming-01.png){width=50%}![Linear Programming 02](images/linear-programming/Linear_Programming-02.png){width=50%}
+
+![Linear Programming 03](images/linear-programming/Linear_Programming-03.png){width=50%}![Linear Programming 04](images/linear-programming/Linear_Programming-04.png){width=50%}
+
+![Linear Programming 05](images/linear-programming/Linear_Programming-05.png){width=50%}![Linear Programming 06](images/linear-programming/Linear_Programming-06.png){width=50%}
+
+![Linear Programming 07](images/linear-programming/Linear_Programming-07.png){width=50%}![Linear Programming 08](images/linear-programming/Linear_Programming-08.png){width=50%}
+
+![Linear Programming 09](images/linear-programming/Linear_Programming-09.png){width=50%}![Linear Programming 10](images/linear-programming/Linear_Programming-10.png){width=50%}
 
 
 

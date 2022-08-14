@@ -48,11 +48,6 @@ These topics includes:
 - [Queueing Theory](queueing-theory.html)
 - [Inventory Theory](inventory-theory.html)
 
-
-
-
-
-
 ## Projects Overview
 
 
