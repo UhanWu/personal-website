@@ -37,16 +37,16 @@ This section record my explorations and the learning of different algorithms, th
 
 These topics includes:
 
-- [Linear Programming](linear-programming.html)
-- [Graph Theory](graph-theory.html)
-- [Interpolation and Fitting](interpolation-fitting.html)
-- [Analytic Hierarchy Process (AHP)](analytic-hierarchy-process.html)
-- [Integer Programming](integer-programming.html)
-- [Dynamic Programming](dynamic-programming.html)
-- [Differential Equation Modeling](differential-equation.html)
-- [Game Theory](game-theory.html)
-- [Queueing Theory](queueing-theory.html)
-- [Inventory Theory](inventory-theory.html)
+- [Linear Programming](01-linear-programming.html)
+- [Graph Theory](02-graph-theory.html)
+- [Interpolation and Fitting](03-interpolation-fitting.html)
+- [Analytic Hierarchy Process (AHP)](04-analytic-hierarchy-process.html)
+- [Integer Programming](05-integer-programming.html)
+- [Dynamic Programming](06-dynamic-programming.html)
+- [Differential Equation Modeling](07-differential-equation.html)
+- [Game Theory](08-game-theory.html)
+- [Queueing Theory](09-queueing-theory.html)
+- [Inventory Theory](10-inventory-theory.html)
 
 ## Projects Overview
 

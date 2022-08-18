@@ -6,7 +6,7 @@
       "description": "Exploration in Linear Programming (LP).\n",
       "author": [],
       "contents": "\nConcepts\n\n\n\n\n\n\nProgramming Application (R)\nProblem Statement\n\nA company produces two models of chairs: 4P and 3P. The model 4P needs 4\nlegs, 1 seat and 1 back. On the other hand, the model 3P needs 3 legs\nand 1 seat. The company has a initial stock of 200 legs, 500 seats and\n100 backs. If the company needs more legs, seats and backs, it can buy\nstandard wood blocks, whose cost is 80 euro per block. The company can\nproduce 10 seats, 20 legs and 2 backs from a standard wood block. The\ncost of producing the model 4P is 30 euro/chair, meanwhile the cost of\nthe model 3P is 40 euro/chair. Finally, the company informs that the\nminimum number of chairs to produce is 1000 units per month. Define a\nlinear programming model, which minimizes the total cost (the production\ncosts of the two chairs, plus the buying of new wood blocks).\n\nCredit: “Modeling and Solving Linear Programming with R” by Jose M.\nSallan, Oriol Lordan and Vincenc Fernandez. Page 57, section 3.5 and R\nbloggers.\n\\(x_{4p}\\) is the number of 4P\nchairs to be produced.\n\\(x_{3p}\\) is the number of 3P\nchairs to be produced.\n\\(x_w\\) is the number of wood\nblocks to be bought.\nNow we can define \\(\\hat X =\n\\begin{pmatrix} x_{4p} \\\\ x_{3p} \\\\ x_w \\end{pmatrix}\\) as the\ndecision variable vector. Note that it must be \\(\\hat X \\geq 0\\).\nWe would like to minimize the total cost so we must set our objective\nfunction as follows\n\\[cost(x_{4p}, x_{3p}, x_w) = 30 x_{4p} +\n40 x_{3p} + 80 x_w = MIN(cost) \\]\nwhich means that \\(\\hat C = \\begin{pmatrix}\n30 \\\\ 40 \\\\ 80 \\end{pmatrix}\\).\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:53+08:00"
+      "last_modified": "2022-08-18T09:29:51+08:00"
     },
     {
       "path": "02-graph-theory.html",
@@ -14,7 +14,7 @@
       "description": "Exploration in Graph Theory.\n",
       "author": [],
       "contents": "\nConcepts\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:54+08:00"
+      "last_modified": "2022-08-18T09:29:52+08:00"
     },
     {
       "path": "03-interpolation-fitting.html",
@@ -22,7 +22,7 @@
       "description": "Exploration in interpolation and fitting methods.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:55+08:00"
+      "last_modified": "2022-08-18T09:29:52+08:00"
     },
     {
       "path": "04-analytic-hierarchy-process.html",
@@ -30,7 +30,7 @@
       "description": "Exploration in Analytic Hierarchy Process (AHP).\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:55+08:00"
+      "last_modified": "2022-08-18T09:29:53+08:00"
     },
     {
       "path": "05-integer-programming.html",
@@ -38,7 +38,7 @@
       "description": "Exploration in Integer Programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:56+08:00"
+      "last_modified": "2022-08-18T09:29:53+08:00"
     },
     {
       "path": "06-dynamic-programming.html",
@@ -46,7 +46,7 @@
       "description": "Exploration in dynamic programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:56+08:00"
+      "last_modified": "2022-08-18T09:29:54+08:00"
     },
     {
       "path": "07-differential-equation.html",
@@ -54,7 +54,7 @@
       "description": "Exploration in differential equation modeling.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:57+08:00"
+      "last_modified": "2022-08-18T09:29:54+08:00"
     },
     {
       "path": "08-game-theory.html",
@@ -62,7 +62,7 @@
       "description": "Exploration in Game Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:57+08:00"
+      "last_modified": "2022-08-18T09:29:55+08:00"
     },
     {
       "path": "09-queueing-theory.html",
@@ -70,7 +70,7 @@
       "description": "Exploration in Queueing Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:58+08:00"
+      "last_modified": "2022-08-18T09:29:55+08:00"
     },
     {
       "path": "10-inventory-theory.html",
@@ -78,7 +78,7 @@
       "description": "Exploration in Inventory Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:58+08:00"
+      "last_modified": "2022-08-18T09:29:56+08:00"
     },
     {
       "path": "about.html",
@@ -86,7 +86,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:58+08:00"
+      "last_modified": "2022-08-18T09:29:56+08:00"
     },
     {
       "path": "himcm_2021.html",
@@ -94,15 +94,15 @@
       "description": "Experiences in 2022 High School Mathematical Contest in Modeling.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:59+08:00"
+      "last_modified": "2022-08-18T09:29:57+08:00"
     },
     {
       "path": "index.html",
       "title": "Yuhan Wu's Personal Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I am currently a student at Newton North\nHigh School. When I was young, I have always wondered what are the real\napplication of all the math and science knowledge that I’ve learned. I\ndiscovered the answer to this question after my first math modeling\ncompetition; I came to the realization and the fascination of the power\nof data analytics and mathematical modeling. It is the pleasure of\ncreation and seeing its application that keeps motivate me and pushes me\nfurther in the journey of math and data.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\nYuhan\nModeling Exploration\nThis section record my explorations and the learning of different\nalgorithms, theories and methods of data analysis.\nThese topics includes:\nLinear Programming\nGraph Theory\nInterpolation and\nFitting\nAnalytic Hierarchy Process\n(AHP)\nInteger Programming\nDynamic Programming\nDifferential Equation\nModeling\nGame Theory\nQueueing Theory\nInventory Theory\nProjects Overview\n\n\n\n",
-      "last_modified": "2022-08-16T19:35:59+08:00"
+      "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I am currently a student at Newton North\nHigh School. When I was young, I have always wondered what are the real\napplication of all the math and science knowledge that I’ve learned. I\ndiscovered the answer to this question after my first math modeling\ncompetition; I came to the realization and the fascination of the power\nof data analytics and mathematical modeling. It is the pleasure of\ncreation and seeing its application that keeps motivate me and pushes me\nfurther in the journey of math and data.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\nYuhan\nModeling Exploration\nThis section record my explorations and the learning of different\nalgorithms, theories and methods of data analysis.\nThese topics includes:\nLinear Programming\nGraph Theory\nInterpolation and\nFitting\nAnalytic Hierarchy\nProcess (AHP)\nInteger Programming\nDynamic Programming\nDifferential Equation\nModeling\nGame Theory\nQueueing Theory\nInventory Theory\nProjects Overview\n\n\n\n",
+      "last_modified": "2022-08-18T09:29:57+08:00"
     }
   ],
   "collections": []
