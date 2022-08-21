@@ -9,26 +9,26 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Concepts
+# Notes
 
-![Graph Theory 01](images/Graph-Theory/Graph-Theory-01.png){width=50%}![Graph Theory 02](images/Graph-Theory/Graph-Theory-02.png){width=50%}
-![Graph Theory 03](images/Graph-Theory/Graph-Theory-03.png){width=50%}![Graph Theory 04](images/Graph-Theory/Graph-Theory-04.png){width=50%}
+![Graph Theory 01](images/02-Graph-Theory/Graph-Theory-01.png){width=50%}![Graph Theory 02](images/02-Graph-Theory/Graph-Theory-02.png){width=50%}
+![Graph Theory 03](images/02-Graph-Theory/Graph-Theory-03.png){width=50%}![Graph Theory 04](images/02-Graph-Theory/Graph-Theory-04.png){width=50%}
 
-![Graph Theory 05](images/Graph-Theory/Graph-Theory-05.png){width=50%}![Graph Theory 06](images/Graph-Theory/Graph-Theory-06.png){width=50%}
+![Graph Theory 05](images/02-Graph-Theory/Graph-Theory-05.png){width=50%}![Graph Theory 06](images/02-Graph-Theory/Graph-Theory-06.png){width=50%}
 
-![Graph Theory 07](images/Graph-Theory/Graph-Theory-07.png){width=50%}![Graph Theory 08](images/Graph-Theory/Graph-Theory-08.png){width=50%}
+![Graph Theory 07](images/02-Graph-Theory/Graph-Theory-07.png){width=50%}![Graph Theory 08](images/02-Graph-Theory/Graph-Theory-08.png){width=50%}
 
-![Graph Theory 09](images/Graph-Theory/Graph-Theory-09.png){width=50%}![Graph Theory 10](images/Graph-Theory/Graph-Theory-10.png){width=50%}
+![Graph Theory 09](images/02-Graph-Theory/Graph-Theory-09.png){width=50%}![Graph Theory 10](images/02-Graph-Theory/Graph-Theory-10.png){width=50%}
 
-![Graph Theory 11](images/Graph-Theory/Graph-Theory-11.png){width=50%}![Graph Theory 12](images/Graph-Theory/Graph-Theory-12.png){width=50%}
+![Graph Theory 11](images/02-Graph-Theory/Graph-Theory-11.png){width=50%}![Graph Theory 12](images/02-Graph-Theory/Graph-Theory-12.png){width=50%}
 
-![Graph Theory 13](images/Graph-Theory/Graph-Theory-13.png){width=50%}![Graph Theory 14](images/Graph-Theory/Graph-Theory-14.png){width=50%}
+![Graph Theory 13](images/02-Graph-Theory/Graph-Theory-13.png){width=50%}![Graph Theory 14](images/02-Graph-Theory/Graph-Theory-14.png){width=50%}
 
-![Graph Theory 15](images/Graph-Theory/Graph-Theory-15.png){width=50%}![Graph Theory 16](images/Graph-Theory/Graph-Theory-16.png){width=50%}
+![Graph Theory 15](images/02-Graph-Theory/Graph-Theory-15.png){width=50%}![Graph Theory 16](images/02-Graph-Theory/Graph-Theory-16.png){width=50%}
 
-![Graph Theory 17](images/Graph-Theory/Graph-Theory-17.png){width=50%}![Graph Theory 18](images/Graph-Theory/Graph-Theory-18.png){width=50%}
+![Graph Theory 17](images/02-Graph-Theory/Graph-Theory-17.png){width=50%}![Graph Theory 18](images/02-Graph-Theory/Graph-Theory-18.png){width=50%}
 
-![Graph Theory 19](images/Graph-Theory/Graph-Theory-19.png){width=50%}
+![Graph Theory 19](images/02-Graph-Theory/Graph-Theory-19.png){width=50%}
 
 
 
