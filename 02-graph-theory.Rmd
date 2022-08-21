@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![Graph Theory 17](images/Graph-Theory/Graph-Theory-17.png){width=50%}![Graph Theory 18](images/Graph-Theory/Graph-Theory-18.png){width=50%}
 
-
+![Graph Theory 19](images/Graph-Theory/Graph-Theory-19.png){width=50%}
 
 
 
