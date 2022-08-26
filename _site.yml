@@ -34,5 +34,5 @@ navbar:
     - text: "Projects"
       menu:
          - text: "HIMCM 2021"
-           href: himcm_2021.html
+           href: projects/himcm_2021.html
 output: distill::distill_article

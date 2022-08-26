@@ -31,8 +31,7 @@ Welcome again! ฅ՞•ﻌ•՞ฅ
 _Yuhan_
 
 
-
-## Interest in Applied Math and Data Science
+## Interests
 
 When I was young, I have always wondered what are the real application of all the math and science knowledge that I've learned. I discovered the answer to this question after my first math modeling competition; I came to the realization and the fascination of the power of data analytics and mathematical modeling. It is the pleasure of creation and seeing its application that keeps motivate me and pushes me further in the journey of math and data.
 
@@ -54,6 +53,9 @@ These topics includes:
 - [Inventory Theory](10-inventory-theory.html)
 
 ## Projects Overview
+
+This section records the application of some of knowledge I've learned, including but not limited to the topics above.
+
 
 
 
