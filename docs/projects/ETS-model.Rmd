@@ -1,0 +1,19 @@
+---
+title: "ETS-Model Prediction"
+description: |
+  Using time series univariate forecasting method (ETS) to predict the stock market
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

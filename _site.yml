@@ -35,4 +35,6 @@ navbar:
       menu:
          - text: "HIMCM 2021"
            href: projects/himcm_2021.html
+         - text: "US Unemployment Analysis"
+           href: unemploy-analysis.html
 output: distill::distill_article
