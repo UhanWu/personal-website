@@ -37,4 +37,6 @@ navbar:
            href: projects/himcm_2021.html
          - text: "US Unemployment Analysis"
            href: unemploy-analysis.html
+         - text: "R Data Science Bootcamp"
+           href: rbootcamp.html
 output: distill::distill_article

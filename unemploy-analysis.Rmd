@@ -15,6 +15,12 @@ library(gridExtra)
 library(plotly)
 ```
 
+## Introduction
+
+This is a project I completed during the summer of 2022, I was initially inspired by an Instagram post published by `thedemocrats`. Along with a visual animation showing a decreasing trend, it claiming that as of July 2022, the "Unemployment Rate is Tied  For The Lowest In 50 Years". I am motivated to then dig deeper to see what happened during these 50 years, as well as comparison between the progress made by the current president Joe Biden and the former president Donald Trump. 
+
+## Credit 
+
 This analysis used the `tidyverse`,`gridExtra`, `plotly`, `fpp2` and `stringi` packages. Every functions used in this analysis belongs to the creator of these packages and as well as the creator of R. 
 
 ## Seasonal Plot Making
