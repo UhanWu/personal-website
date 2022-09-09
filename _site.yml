@@ -33,8 +33,10 @@ navbar:
           href: 10-inventory-theory.html
     - text: "Projects"
       menu:
-         - text: "HIMCM 2021"
-           href: projects/himcm_2021.html
+         - text: "High School Mathematical Contest in Modeling 2021"
+           href: himcm-2021.html
+         - text: "International Mathematical Modeling Challenge 2022"
+           href: immc-2022.html
          - text: "US Unemployment Analysis"
            href: unemploy-analysis.html
          - text: "R Data Science Bootcamp"
