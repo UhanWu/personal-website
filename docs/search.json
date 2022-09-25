@@ -6,7 +6,7 @@
       "description": "Exploration in Linear Programming (LP).\n",
       "author": [],
       "contents": "\nNotes\n\n\n\n\n\n\nProgramming Application (R)\nProblem Statement\n\nA company produces two models of chairs: 4P and 3P. The model 4P needs 4\nlegs, 1 seat and 1 back. On the other hand, the model 3P needs 3 legs\nand 1 seat. The company has a initial stock of 200 legs, 500 seats and\n100 backs. If the company needs more legs, seats and backs, it can buy\nstandard wood blocks, whose cost is 80 euro per block. The company can\nproduce 10 seats, 20 legs and 2 backs from a standard wood block. The\ncost of producing the model 4P is 30 euro/chair, meanwhile the cost of\nthe model 3P is 40 euro/chair. Finally, the company informs that the\nminimum number of chairs to produce is 1000 units per month. Define a\nlinear programming model, which minimizes the total cost (the production\ncosts of the two chairs, plus the buying of new wood blocks).\n\nCredit: “Modeling and Solving Linear Programming with R” by Jose M.\nSallan, Oriol Lordan and Vincenc Fernandez. Page 57, section 3.5 and R\nbloggers.\n\\(x_{4p}\\) is the number of 4P\nchairs to be produced.\n\\(x_{3p}\\) is the number of 3P\nchairs to be produced.\n\\(x_w\\) is the number of wood\nblocks to be bought.\nNow we can define \\(\\hat X =\n\\begin{pmatrix} x_{4p} \\\\ x_{3p} \\\\ x_w \\end{pmatrix}\\) as the\ndecision variable vector. Note that it must be \\(\\hat X \\geq 0\\).\nWe would like to minimize the total cost so we must set our objective\nfunction as follows\n\\[cost(x_{4p}, x_{3p}, x_w) = 30 x_{4p} +\n40 x_{3p} + 80 x_w = MIN(cost) \\]\nwhich means that \\(\\hat C = \\begin{pmatrix}\n30 \\\\ 40 \\\\ 80 \\end{pmatrix}\\).\n\n\n\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:32-04:00"
+      "last_modified": "2022-09-23T21:14:54-04:00"
     },
     {
       "path": "02-graph-theory.html",
@@ -14,7 +14,7 @@
       "description": "Exploration in Graph Theory.\n",
       "author": [],
       "contents": "\nNotes\n\n\n\n\n\n\n\n\nGraph Theory 19\n\n\n",
-      "last_modified": "2022-09-09T14:54:33-04:00"
+      "last_modified": "2022-09-23T21:14:55-04:00"
     },
     {
       "path": "03-interpolation-fitting.html",
@@ -22,7 +22,7 @@
       "description": "Exploration in interpolation and fitting methods.\n",
       "author": [],
       "contents": "\nNotes\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:33-04:00"
+      "last_modified": "2022-09-23T21:14:55-04:00"
     },
     {
       "path": "04-analytic-hierarchy-process.html",
@@ -30,7 +30,7 @@
       "description": "Exploration in Analytic Hierarchy Process (AHP).\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:33-04:00"
+      "last_modified": "2022-09-23T21:14:56-04:00"
     },
     {
       "path": "05-integer-programming.html",
@@ -38,7 +38,7 @@
       "description": "Exploration in Integer Programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:34-04:00"
+      "last_modified": "2022-09-23T21:14:56-04:00"
     },
     {
       "path": "06-dynamic-programming.html",
@@ -46,7 +46,7 @@
       "description": "Exploration in dynamic programming.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:34-04:00"
+      "last_modified": "2022-09-23T21:14:56-04:00"
     },
     {
       "path": "07-differential-equation.html",
@@ -54,7 +54,7 @@
       "description": "Exploration in differential equation modeling.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:35-04:00"
+      "last_modified": "2022-09-23T21:14:57-04:00"
     },
     {
       "path": "08-game-theory.html",
@@ -62,7 +62,7 @@
       "description": "Exploration in Game Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:35-04:00"
+      "last_modified": "2022-09-23T21:14:57-04:00"
     },
     {
       "path": "09-queueing-theory.html",
@@ -70,7 +70,7 @@
       "description": "Exploration in Queueing Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:35-04:00"
+      "last_modified": "2022-09-23T21:14:58-04:00"
     },
     {
       "path": "10-inventory-theory.html",
@@ -78,7 +78,7 @@
       "description": "Exploration in Inventory Theory.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:36-04:00"
+      "last_modified": "2022-09-23T21:14:58-04:00"
     },
     {
       "path": "about.html",
@@ -86,7 +86,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:36-04:00"
+      "last_modified": "2022-09-23T21:14:58-04:00"
     },
     {
       "path": "himcm-2021.html",
@@ -94,7 +94,7 @@
       "description": "My experience at High School Mathematical Contest in Modeling (HIMCM) 2021.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:36-04:00"
+      "last_modified": "2022-09-23T21:14:59-04:00"
     },
     {
       "path": "immc-2022.html",
@@ -102,7 +102,7 @@
       "description": "My experience at The International Mathematical Modeling Challenge (IMMC) 2022.\n",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:37-04:00"
+      "last_modified": "2022-09-23T21:14:59-04:00"
     },
     {
       "path": "index.html",
@@ -110,14 +110,14 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\nIntroduction\nHello, my name is Yuhan Wu. I am currently a student at Newton North\nHigh School.\nI am an amateur badminton player and a pianist (Performance\nat Asian Night). On to food, I am a crazy burritos lover since my\nfirst exposure to it during a math modeling competition.\nThis website will keep track of my several main projects throughout\nhigh school, as well as progress and knowledge development as I dive\ndeeper into the fields of applied mathematics and data science.\nHope you can find this website interesting and can learn a little\nmore about me!\nWelcome again! ฅ՞•ﻌ•՞ฅ\nYuhan\nInterests\nWhen I was young, I have always wondered what are the real\napplication of all the math and science knowledge that I’ve learned. I\ndiscovered the answer to this question after my first math modeling\ncompetition; I came to the realization and the fascination of the power\nof data analytics and mathematical modeling. It is the pleasure of\ncreation and seeing its application that keeps motivate me and pushes me\nfurther in the journey of math and data.\nModeling Exploration\nThis section record my explorations and the learning of different\nalgorithms, theories and methods of data analysis.\nThese topics includes:\nLinear Programming\nGraph Theory\nInterpolation and\nFitting\nAnalytic Hierarchy\nProcess (AHP)\nInteger Programming\nDynamic Programming\nDifferential Equation\nModeling\nGame Theory\nQueueing Theory\nInventory Theory\nProjects Overview\nThis section records the application of some of knowledge I’ve\nlearned, including but not limited to the topics above.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:37-04:00"
+      "last_modified": "2022-09-23T21:14:59-04:00"
     },
     {
       "path": "rbootcamp.html",
       "title": "R Data Science Bootcamp",
       "author": [],
       "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:38-04:00"
+      "last_modified": "2022-09-23T21:15:00-04:00"
     },
     {
       "path": "unemploy-analysis.html",
@@ -125,7 +125,7 @@
       "description": "An brief analysis of the US employment rate since 2016 using the data from the Federal Reserve Bank of St.Louis.\n",
       "author": [],
       "contents": "\nIntroduction\nThis is a project I completed during the summer of 2022, I was\ninitially inspired by an Instagram post published by\nthedemocrats. Along with a visual animation showing a\ndecreasing trend, it claiming that as of July 2022, the “Unemployment\nRate is Tied For The Lowest In 50 Years”. I am motivated to then dig\ndeeper to see what happened during these 50 years, as well as comparison\nbetween the progress made by the current president Joe Biden and the\nformer president Donald Trump.\nCredit\nThis analysis used the tidyverse,gridExtra,\nplotly, fpp2 and stringi\npackages. Every functions used in this analysis belongs to the creator\nof these packages and as well as the creator of R.\nSeasonal Plot Making\n\n\n# load data from FRED\nusunemp <- read_csv(\"./data/unempl.csv\",show_col_types = FALSE)\n\n\nThe data I used is from the Unemployment\nRate data set provided by FRED.\nThis is the raw data from the FRED data set.\n\n# A tibble: 895 × 2\n   DATE       UNRATE\n   <date>      <dbl>\n 1 1948-01-01    3.4\n 2 1948-02-01    3.8\n 3 1948-03-01    4  \n 4 1948-04-01    3.9\n 5 1948-05-01    3.5\n 6 1948-06-01    3.6\n 7 1948-07-01    3.6\n 8 1948-08-01    3.9\n 9 1948-09-01    3.8\n10 1948-10-01    3.7\n# … with 885 more rows\n# ℹ Use `print(n = ...)` to see more rows\n\nStart the pipe with the data set, first use the stri_sub\nfunction from the stringi package to extract the year value\nof the Date column,use as.double to turn the\nvector type Date to numerical vector Double.\nThen use the filter function from the\ntidyverse package to filter out the desired year (in this\ncase between 2016 and 2021), Lastly, select the UNRATE\ncolumn.\n\n\nus_unemployment_1 <- usunemp |>\n  mutate(DATE = as.double(stri_sub(DATE,0,4))) |>\n  filter(DATE >= 2016 & DATE < 2021)|>\n  select(UNRATE)\n\n\nThe resulting tibble is shown below, which contains a total of 60\nrows.\n(5 years * 12 months/years)\n\n# A tibble: 60 × 1\n   UNRATE\n    <dbl>\n 1    4.8\n 2    4.9\n 3    5  \n 4    5.1\n 5    4.8\n 6    4.9\n 7    4.8\n 8    4.9\n 9    5  \n10    4.9\n# … with 50 more rows\n# ℹ Use `print(n = ...)` to see more rows\n\nUse ts function to translate the tibble into a\ntime-series object, note the frequency correspond with the pattern of\nrepetition within the data (months), and using the same start year as\nset during the previous code chunk.\n\n\nus_unemployment_g1 <-ts(us_unemployment_1,frequency=12,start = 2016)\n\n\n\n      Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec\n2016  4.8  4.9  5.0  5.1  4.8  4.9  4.8  4.9  5.0  4.9  4.7  4.7\n2017  4.7  4.6  4.4  4.4  4.4  4.3  4.3  4.4  4.3  4.2  4.2  4.1\n2018  4.0  4.1  4.0  4.0  3.8  4.0  3.8  3.8  3.7  3.8  3.8  3.9\n2019  4.0  3.8  3.8  3.6  3.6  3.6  3.7  3.7  3.5  3.6  3.6  3.6\n2020  3.5  3.5  4.4 14.7 13.2 11.0 10.2  8.4  7.9  6.9  6.7  6.7\n\nLastly, use ggseasonplot to visualize the dataset, set\npolar = TRUE will give us the cool polar coordinate in the\nplot. Adjust the titles and texts with theme,\nxlab, ylab, and ggtitle.\n\n\nplot1 <- ggseasonplot(us_unemployment_g1, polar=TRUE)+\ntheme(text = element_text(family = \"STHeiti\"))+\n  theme(plot.title = element_text(hjust = 0.5))+\n  xlab(\"Month\")+\n  ylab(\"Unemployment Rate\") +\n  ggtitle(\"US Unemployment Rate\")\n\n\n\n\n\nSimilarly, we can create the plot from 2020 to 2022 using the same\ntechnique.\n\n\nus_unemployment_2 <- usunemp |>\n  mutate(DATE = as.double(stri_sub(DATE,0,4))) |>\n  filter(DATE >= 2020 & DATE <= 2022)|>\n  select(UNRATE)\n\nus_unemployment_g2 <-ts(us_unemployment_2,frequency=12,start = 2020)\n\nplot2 <- ggseasonplot(us_unemployment_g2, polar=TRUE)+\ntheme(text = element_text(family = \"STHeiti\"))+\n  theme(plot.title = element_text(hjust = 0.5))+\n  xlab(\"Month\")+\n  ylab(\"Unemployment Rate\") +\n  ggtitle(\"US Unemployment Rate\")\n\n\n\n\n\nAnalysis\nUse grid.arrange from the gridExtra package\nto put the two plots side by side.\n\n\ngrid.arrange(plot1, plot2, ncol=2)\n\n\n\nThe two plots represent the unemployment rate in the United States\nunder the 45th President Donald Trump (Left), and the 46th President Joe\nBiden (Right). The plot at the bottom shows the historical US\nunemployment rate since January 1948.\nThe data have shown that the unemployment rate under the first three\nyears of President Trump have gradually decreases, however, starting in\nJanuary 2020, when Covid first hit the United States, the unemployment\nrate skyrocketed to an all time high of 14.7% in April 2022. After the\npeek in April, the unemployment rate decreases, and during the time of\nPresident Biden’s inauguration, the US unemployment rate was around\n6.4%. After President Biden took office, the unemployment rate continues\nto drop, as of July 2022, the unemployment rate of the US was at it’s\nlowest point since 1960, at around 3.5%.\n\n\n\nThis analysis is also published on Rpubs, click here to take a\nlook!\n\n\n\n",
-      "last_modified": "2022-09-09T14:54:44-04:00"
+      "last_modified": "2022-09-23T21:15:18-04:00"
     }
   ],
   "collections": []

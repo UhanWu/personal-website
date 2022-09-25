@@ -13,6 +13,8 @@ library(fpp2)
 library(stringi)
 library(gridExtra)
 library(plotly)
+library(gganimate)
+library(gifski)
 ```
 
 ## Introduction
@@ -130,6 +132,22 @@ hist_plot <- usunemp|>
 ggplotly(hist_plot, tooltip = "text")
 ```
 
+```{r include = FALSE}
+anim_plot <- usunemp|>
+  filter(DATE >= '1948-01-01') |>
+  ggplot(aes(x = DATE, y = UNRATE))+
+  geom_point() +
+  geom_line(color='darkblue')+
+  transition_reveal(DATE) +
+  labs(title = "US unemployment rate (Jan 1948 - Jul 2022)", 
+       x = " Date (Monthly)", 
+       y = "Unemployment Rate (Percentage)")+
+  theme_bw()
+
+
+animate(anim_plot, duration = 10, renderer = gifski_renderer())
+anim_save("usunemp.gif")
+```
 
 This analysis is also published on Rpubs, click [here](https://rpubs.com/YuhanWu/us-unemploy) to take a look!
 

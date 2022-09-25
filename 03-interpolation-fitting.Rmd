@@ -12,18 +12,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Notes
 
-![Graph Theory 01](images/03-Interpolation-Fitting/Interpolation-Fitting-01.png){width=50%}![Graph Theory 02](images/03-Interpolation-Fitting/Interpolation-Fitting-02.png){width=50%}
-![Graph Theory 03](images/03-Interpolation-Fitting/Interpolation-Fitting-03.png){width=50%}![Graph Theory 04](images/03-Interpolation-Fitting/Interpolation-Fitting-04.png){width=50%}
+![Interpolation 01](images/03-Interpolation-Fitting/Interpolation-Fitting-01.png){width=50%}![Interpolation 02](images/03-Interpolation-Fitting/Interpolation-Fitting-02.png){width=50%}
+![Interpolation 03](images/03-Interpolation-Fitting/Interpolation-Fitting-03.png){width=50%}![Interpolation 04](images/03-Interpolation-Fitting/Interpolation-Fitting-04.png){width=50%}
 
-![Graph Theory 05](images/03-Interpolation-Fitting/Interpolation-Fitting-05.png){width=50%}![Graph Theory 06](images/03-Interpolation-Fitting/Interpolation-Fitting-06.png){width=50%}
+![Interpolation 05](images/03-Interpolation-Fitting/Interpolation-Fitting-05.png){width=50%}![Interpolation 06](images/03-Interpolation-Fitting/Interpolation-Fitting-06.png){width=50%}
 
-![Graph Theory 07](images/03-Interpolation-Fitting/Interpolation-Fitting-07.png){width=50%}![Graph Theory 08](images/03-Interpolation-Fitting/Interpolation-Fitting-08.png){width=50%}
+![Interpolation 07](images/03-Interpolation-Fitting/Interpolation-Fitting-07.png){width=50%}![Interpolation 08](images/03-Interpolation-Fitting/Interpolation-Fitting-08.png){width=50%}
 
-![Graph Theory 09](images/03-Interpolation-Fitting/Interpolation-Fitting-09.png){width=50%}![Graph Theory 10](images/03-Interpolation-Fitting/Interpolation-Fitting-10.png){width=50%}
+![Interpolation 09](images/03-Interpolation-Fitting/Interpolation-Fitting-09.png){width=50%}![Interpolation 10](images/03-Interpolation-Fitting/Interpolation-Fitting-10.png){width=50%}
 
-![Graph Theory 11](images/03-Interpolation-Fitting/Interpolation-Fitting-11.png){width=50%}![Graph Theory 12](images/03-Interpolation-Fitting/Interpolation-Fitting-12.png){width=50%}
+![Interpolation 11](images/03-Interpolation-Fitting/Interpolation-Fitting-11.png){width=50%}![Interpolation 12](images/03-Interpolation-Fitting/Interpolation-Fitting-12.png){width=50%}
 
-![Graph Theory 13](images/03-Interpolation-Fitting/Interpolation-Fitting-13.png){width=50%}![Graph Theory 14](images/03-Interpolation-Fitting/Interpolation-Fitting-14.png){width=50%}
+![Interpolation 13](images/03-Interpolation-Fitting/Interpolation-Fitting-13.png){width=50%}![Interpolation 14](images/03-Interpolation-Fitting/Interpolation-Fitting-14.png){width=50%}
 
 
 
