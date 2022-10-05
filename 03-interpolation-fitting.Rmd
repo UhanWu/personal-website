@@ -9,6 +9,19 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Credits
+
+"Lagrange Interpolation" by Dr. Will Wood [Video Link Here](https://www.youtube.com/watch?v=bzp_q7NDdd4)
+
+"The Vandermonde Matrix and Polynomial Interpolation" by Dr. Will Wood [Video Link Here](https://www.youtube.com/watch?v=Cov_kLatdlc)
+
+"Newton Interpolation and Divided Differences" by Dr. Will Wood [Video Link Here](https://www.youtube.com/watch?v=S7QIU0i1qLE)
+
+"How to calculate linear regression using least square method" by statisticsfun [Video Link Here](https://www.youtube.com/watch?v=JvS2triCgOY)
+
+"Data Fitting: Basic Curve Fitting" Part 1 - 4 by Data4Bio [Video Link Here](https://www.youtube.com/watch?v=V3W3rVZE0I0)
+
+
 
 # Notes
 

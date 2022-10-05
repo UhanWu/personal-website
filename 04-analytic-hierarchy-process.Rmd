@@ -1,7 +1,7 @@
 ---
 title: "Analytic Hierarchy Process"
 description: |
-  Exploration in Analytic Hierarchy Process (AHP).
+  Exploration in Analytic Hierarchy Process (AHP). 
 output: distill::distill_article
 ---
 
@@ -9,11 +9,15 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+# Credits
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+"Analytical Hierarchy Process" by CBAKhan [Video Link Here](https://www.youtube.com/watch?v=sExZVh5GTdk)
 
+# Notes
 
+![AHP 01](images/04-ahp/ahp-1.png){width=50%}![AHP 02](images/04-ahp/ahp-2.png){width=50%}
 
+![AHP 03](images/04-ahp/ahp-3.png){width=50%}![AHP 04](images/04-ahp/ahp-4.png){width=50%}
+![AHP 05](images/04-ahp/ahp-5.png){width=50%}![AHP 06](images/04-ahp/ahp-6.png){width=50%}
 
 

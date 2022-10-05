@@ -22,7 +22,7 @@ Hello, my name is Yuhan Wu. I am currently a student at Newton North High School
 
 I am an amateur badminton player and a pianist ([Performance at Asian Night](https://www.youtube.com/watch?v=zAMLrC4QClM&t=1980s)). On to food, I am a crazy burritos lover since my first exposure to it during a math modeling competition. 
 
-This website will keep track of my several main projects throughout high school, as well as progress and knowledge development as I dive deeper into the fields of applied mathematics and data science.
+This website will keep track of my several main projects throughout high school, as well as progress and notes as I dive deeper into the fields of applied mathematics and data science.
 
 Hope you can find this website interesting and can learn a little more about me!
 
