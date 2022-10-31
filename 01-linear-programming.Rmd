@@ -11,6 +11,11 @@ library(tidyverse)
 library(lpSolve)
 ```
 
+# Credits
+
+The "Intro to Linear Programming" series by Joshua Emmanuel [Playlist Link Here](https://www.youtube.com/playlist?list=PLD3fYc0bAjC-Wc4icC2F34Bry3oLpFb8B)
+
+
 # Notes
 
 <p>

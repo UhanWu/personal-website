@@ -2,6 +2,7 @@
 title: "Yuhan Wu's Personal Website"
 description: |
   Welcome to the website. I hope you enjoy it!
+  Note: This Website is still in the process of making/improving.
 site: distill::distill_website
 ---
 
